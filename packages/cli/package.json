@@ -22,6 +22,7 @@
   "dependencies": {
     "args": "^3.0.8",
     "ncp": "^2.0.0",
+    "neighbourhoodie-test-package": "^10.0.0",
     "replace": "^0.3.0"
   }
 }
