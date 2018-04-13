@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@avalanche/setting-spacings": "^4.0.0-alpha.5",
-    "neighbourhoodie-test-package": "^10.0.0"
+    "neighbourhoodie-test-package": "^16.3.0"
   },
   "main": "scss/index.scss",
   "engines": {
