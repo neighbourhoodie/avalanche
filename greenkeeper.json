@@ -19,7 +19,11 @@
         "packages/setting-font-families/package.json",
         "packages/setting-font-sizes/package.json",
         "packages/setting-spacings/package.json",
-        "packages/stylelint-config/package.json",
+        "packages/stylelint-config/package.json"
+      ]
+    },
+    "utility": {
+      "packages": [
         "packages/utility-align-self/package.json",
         "packages/utility-clearfix/package.json",
         "packages/utility-font-family/package.json",
