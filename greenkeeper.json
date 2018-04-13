@@ -2,7 +2,7 @@
   "groups": {
     "default": {
       "packages": [
-        "package.json"
+        "package.json",
         "packages/cli/package.json",
         "packages/cli/templates/default/package.json",
         "packages/component-button/package.json",
