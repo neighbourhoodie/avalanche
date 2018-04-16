@@ -39,6 +39,6 @@
     "sassdoc": "^2.5.0",
     "stylelint": "^9.1.1",
     "stylelint-order": "^0.8.1",
-    "bumper-car": "^4.8.0"
+    "bumper-car": "^5.0.0"
   }
 }
