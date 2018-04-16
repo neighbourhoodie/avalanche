@@ -17,7 +17,7 @@
     "lint:styles": "stylelint packages/**/*.scss",
     "lint": "npm run lint:scripts & npm run lint:styles",
     "test:reference": "bash test/test-reference.sh",
-    "test": "exit 1"
+    "test": "echo npm test --lol"
   },
   "repository": {
     "type": "git",
