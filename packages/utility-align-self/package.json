@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@avalanche/setting-breakpoints": "^4.0.0-alpha.4",
-    "bumper-car": "5.1.0"
+    "bumper-car": "^5.1.0"
   },
   "main": "scss/index.scss",
   "engines": {
