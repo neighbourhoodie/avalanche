@@ -1,6 +1,5 @@
 # avalanche
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/neighbourhoodie/gk-test-lerna-big.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/avalanchesass/avalanche.svg?branch=master)](https://travis-ci.org/avalanchesass/avalanche)
 [![GitHub stars](https://img.shields.io/github/stars/avalanchesass/avalanche.svg?style=social&label=Star)](https://github.com/avalanchesass/avalanche)
 
