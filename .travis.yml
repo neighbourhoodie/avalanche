@@ -1,6 +1,8 @@
 language: node_js
 node_js:
-  - "node"
-install: npm install
+  - "10"
+cache:
+  directories:
+- node_modules
 script:
   - npm run test
