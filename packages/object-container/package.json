@@ -18,8 +18,8 @@
     "url": "https://github.com/avalanchesass/avalanche/issues"
   },
   "dependencies": {
-    "@avalanche/setting-spacings": "^4.0.0-alpha.5",
-    "neighbourhoodie-test-package": "^22.0.0"
+    "@avalanche/setting-spacings": "4.0.0-alpha.6",
+    "neighbourhoodie-test-package": "^49.1234.0"
   },
   "main": "scss/index.scss",
   "engines": {
