@@ -9,7 +9,7 @@
     "browser-sync": "^2.18.12",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^5.0.0",
+    "gulp-autoprefixer": "^6.0.0",
     "gulp-cleancss": "^0.2.2",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^4.0.1",
